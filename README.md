@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on guy who help me 
 - 📫 How to reach me send mi DMS
-- 😄 Pronouns: objective inteligent humor guy
+- 😄 Pronouns: objective inteligent humor 
 - ⚡ Fun fact: My dream is to be physicist
 
 <!---
